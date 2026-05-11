@@ -1,0 +1,15 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/artifacts/*.pkl
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.vercel/
+frontend/.env
+frontend/.env.local
+
+# OS
+.DS_Store
